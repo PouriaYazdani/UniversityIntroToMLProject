@@ -118,5 +118,4 @@ streamlit run app.py
 └── README.md
 ```
 ---
-Project completed as the final project for the Natural Language Processing course (2023–2024).
-```
+Project completed as the final project for the Natural Language Processing course (Fall 2024).
