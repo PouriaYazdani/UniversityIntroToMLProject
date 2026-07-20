@@ -3,6 +3,9 @@
 A fine-tuned DistilBERT model for multi-label emotion classification on short English sentences.  
 The task involves predicting 10 possible emotions per sentence, where multiple emotions can co-occur.
 
+---
+Project completed as the final project for the Introduction to Machine Learning course during my BSc of computer engineering degree (Fall 2024).
+
 ## Project Overview
 
 The objective is to classify sentences into one or more of the following 10 emotion categories:
@@ -117,5 +120,3 @@ streamlit run app.py
 ├── emotion_mlcls_final.ipynb          # Complete notebook (EDA → training → evaluation → error analysis)
 └── README.md
 ```
----
-Project completed as the final project for the Natural Language Processing course (Fall 2024).
